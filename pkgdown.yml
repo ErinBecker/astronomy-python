@@ -2,8 +2,8 @@ pandoc: 3.1.11
 pkgdown: 2.0.9
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-05-07T00:35Z
+last_built: 2024-05-07T17:25Z
 urls:
-  reference: https://ErinBecker.github.io/astronomy-python/reference
-  article: https://ErinBecker.github.io/astronomy-python/articles
+  reference: https://datacarpentry.github.io/astronomy-python/reference
+  article: https://datacarpentry.github.io/astronomy-python/articles
 
